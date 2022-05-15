@@ -687,7 +687,7 @@
     }
     .box3 {
         margin: 0.5rem;
-        background: url(./desktop/image-soccer-team.jpg) no-repeat;
+        background: url(./desktop/image-soccer-team.jpg) no-repeat center center;
         width: 16rem;
         height: 27rem;
         display: flex;
